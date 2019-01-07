@@ -1,4 +1,4 @@
-# trilaterate [![GoDoc](https://godoc.org/github.com/wilhelmstoll/trilaterate?status.svg)](https://godoc.org/github.com/wilhelmstoll/trilaterate)
+# trilaterate [![GoDoc](https://godoc.org/github.com/wilhelmstoll/trilaterate?status.svg)](https://godoc.org/github.com/wilhelmstoll/trilaterate) [![Build Status](https://travis-ci.org/wilhelmstoll/trilaterate.svg?branch=master)](https://travis-ci.org/wilhelmstoll/trilaterate)
 
 Pure go implementation of trilaterate function, transcribed in part from Python originals by StackExchange user wwnick from post (http://gis.stackexchange.com/a/415/41129).
 
